@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Module 13 JS, HTML, Mapbox and Leaflet: Mapping Earthquakes with JS & APIs.
+Module 13: JS, HTML, Mapbox and Leaflet - Mapping Earthquakes with JS & APIs.
 
 ## Overview
 We created the earthquake map with two different maps and the earthquake overlay. Now, the aim of this challenge is to see the earthquake data in relation to the tectonic plates’ location on the earth. We also want to see all the earthquakes with a magnitude greater than 4.5 on the map. Lastly the data must be presented on a third map.
